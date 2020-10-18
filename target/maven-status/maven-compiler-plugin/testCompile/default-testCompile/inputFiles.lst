@@ -1,0 +1,15 @@
+/Users/gabrielaambos/Documents/GitHub/restassured-api-testing/src/test/java/br/com/restassuredapitesting/tests/auth/tests/PostAuthTest.java
+/Users/gabrielaambos/Documents/GitHub/restassured-api-testing/src/test/java/br/com/restassuredapitesting/tests/booking/requests/GetBookingRequest.java
+/Users/gabrielaambos/Documents/GitHub/restassured-api-testing/src/test/java/br/com/restassuredapitesting/suites/AllTests.java
+/Users/gabrielaambos/Documents/GitHub/restassured-api-testing/src/test/java/br/com/restassuredapitesting/tests/auth/requests/PostAuthRequest.java
+/Users/gabrielaambos/Documents/GitHub/restassured-api-testing/src/test/java/br/com/restassuredapitesting/suites/Acceptance.java
+/Users/gabrielaambos/Documents/GitHub/restassured-api-testing/src/test/java/br/com/restassuredapitesting/runners/Contract.java
+/Users/gabrielaambos/Documents/GitHub/restassured-api-testing/src/test/java/br/com/restassuredapitesting/tests/base/tests/BaseTest.java
+/Users/gabrielaambos/Documents/GitHub/restassured-api-testing/src/test/java/br/com/restassuredapitesting/tests/booking/tests/PutBookingTest.java
+/Users/gabrielaambos/Documents/GitHub/restassured-api-testing/src/test/java/br/com/restassuredapitesting/utils/Utils.java
+/Users/gabrielaambos/Documents/GitHub/restassured-api-testing/src/test/java/br/com/restassuredapitesting/tests/base/requests/BaseRequest.java
+/Users/gabrielaambos/Documents/GitHub/restassured-api-testing/src/test/java/br/com/restassuredapitesting/tests/booking/tests/GetBookingTest.java
+/Users/gabrielaambos/Documents/GitHub/restassured-api-testing/src/test/java/br/com/restassuredapitesting/tests/booking/requests/PutBookingRequest.java
+/Users/gabrielaambos/Documents/GitHub/restassured-api-testing/src/test/java/br/com/restassuredapitesting/runners/Acceptance.java
+/Users/gabrielaambos/Documents/GitHub/restassured-api-testing/src/test/java/br/com/restassuredapitesting/suites/Contract.java
+/Users/gabrielaambos/Documents/GitHub/restassured-api-testing/src/test/java/br/com/restassuredapitesting/runners/AllTests.java
